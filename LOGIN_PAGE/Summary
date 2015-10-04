@@ -1,0 +1,5 @@
+This application is based on intent concept of android.
+intent is basically primary component by which we can change one activity to another activity.
+similarly this project is based on intent only ,here in the first activity i use two text field,and two buttons.
+one text field accept user name and second text field will accept only number.
+in the second activity i used one text field which will show user`s name and addition,multiplication and substraction of given number with 5
